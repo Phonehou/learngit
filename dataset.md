@@ -1,5 +1,5 @@
 # 实验数据说明
-实验项目代码在/home/users/houjyuf/workspace/FAS-SGTD
+实验项目代码在/home/users/houjyuf/FAS_SGTD_v2
 
 实验用到的CASIA，Replay Attack数据集的处理及说明
 
