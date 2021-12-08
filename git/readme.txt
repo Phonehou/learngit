@@ -1,1 +1,0 @@
-Systemic computer science framework.
